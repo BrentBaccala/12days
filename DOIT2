@@ -1,5 +1,0 @@
-#!/bin/bash
-
-convert -size 640x480 -background lightblue -pointsize 25 -fill black \
--gravity West caption:"The quick red fox jumped over the lazy brown dog." \
--flatten frame1.jpg
